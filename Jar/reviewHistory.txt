@@ -1,0 +1,5 @@
+Running,1,4,920.0
+Blitz,1,4,1200.0
+Pilates,1,4,492.0
+Swimming,1,4,1400.0
+Dancing,1,4,936.0
